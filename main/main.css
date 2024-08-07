@@ -1,0 +1,42 @@
+.login-container {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center; /* Para centrar contenido dentro del contenedor */
+}
+
+.login-container h2 {
+    margin-bottom: 20px;
+}
+
+.login-container label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.login-container input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 15px;
+    border: 1px solid #cccccc;
+    border-radius: 4px;
+}
+
+.login-container button {
+    width: 120px; /* Ancho deseado del botón */
+    padding: 10px;
+    margin-top: 10px; /* Espacio desde arriba */
+    background-color: #007BFF;
+    border: none;
+    color: white;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px; /* Tamaño de la fuente del texto */
+    display: block; /* Convertir a bloque para aplicar margin: 0 auto; */
+    margin: 0 auto; /* Centrar horizontalmente */
+}
+
+.login-container button:hover {
+    background-color: #0056b3;
+}
