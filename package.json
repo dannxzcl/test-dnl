@@ -1,0 +1,19 @@
+{
+  "name": "test-dnl",
+  "version": "1.0.0",
+  "description": "A backend practice project for building a user registration a user registration and login portal using Google credentials. The project uses Node.js with Express.js, Passport.js, Prisma, Axios and Jest. It is also version-controlled with Git and hosted on GitHub.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dannxzcl/test-dnl.git"
+  },
+  "author": "Daniel Saldías",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dannxzcl/test-dnl/issues"
+  },
+  "homepage": "https://github.com/dannxzcl/test-dnl#readme"
+}
